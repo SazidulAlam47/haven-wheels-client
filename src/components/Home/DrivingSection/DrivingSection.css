@@ -1,0 +1,10 @@
+.drivingSection {
+
+    background-image: url('../../../assets/driving.png');
+    background-size: cover;
+    background-position: center;
+    background-repeat: repeat-x;
+    padding-top: 72px;
+    padding-bottom: 480px;
+
+}

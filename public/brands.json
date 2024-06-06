@@ -1,0 +1,32 @@
+[
+    {
+        "id": "1",
+        "brand": "Toyota",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5e/Toyota_EU.svg/2560px-Toyota_EU.svg.png"
+    },
+    {
+        "id": "2",
+        "brand": "Ford",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/Ford_logo_flat.svg/2560px-Ford_logo_flat.svg.png"
+    },
+    {
+        "id": "3",
+        "brand": "BMW",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/44/BMW.svg/600px-BMW.svg.png"
+    },
+    {
+        "id": "4",
+        "brand": "Mercedes-Benz",
+        "logo": "https://i.pinimg.com/originals/76/9e/36/769e367222b218140068d37eae38b9f0.png"
+    },
+    {
+        "id": "5",
+        "brand": "Tesla",
+        "logo": "https://cdn.pixabay.com/photo/2022/08/25/00/32/tesla-logo-7408969_1280.png"
+    },
+    {
+        "id": "6",
+        "brand": "Honda",
+        "logo": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/38/Honda.svg/2560px-Honda.svg.png"
+    }
+]
