@@ -54,10 +54,12 @@ const Register = () => {
                         })
                         .catch((error) => {
                             console.error(error.message);
+                            toast.error(error.message);
                         });
                 })
                 .catch((err) => {
                     console.log(err);
+                    toast.error(err.message);
                 });
         } catch (error) {
             console.error(error);
