@@ -2,8 +2,8 @@
 
 ## Features
 
--   A responsive design that adapts to different screen sizes and devices, ensuring a smooth user experience across desktop, mobile, and tablet
--   We've included a Dark theme toggle button, allowing users to easily switch between dark and light themes to suit their preference.
--   A database that stores and manages the information of the cars, such as brand, model, year, price, specifications, images, reviews, and ratings
--   We've integrated a cart section that securely stores essential car details like brand, model, year, price, and specifications.
--   Each page is dedicated to cars from different brands, ensuring a well-organized presentation of various car options.
+-   A responsive design that adapts seamlessly to various screen sizes and devices, ensuring an optimal user experience on desktops, mobiles, and tablets.
+-   A dark theme toggle button is available, allowing users to switch effortlessly between dark and light themes according to their preference.
+-   A database that efficiently stores and manages car information, including brand, model, year, price, specifications, images, reviews, and ratings.
+-   A cart section that securely retains key car details such as brand, model, year, price, and specifications.
+-   Each page is specifically dedicated to different car brands, providing a well-organized display of various car options.
