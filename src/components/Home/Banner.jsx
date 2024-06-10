@@ -7,8 +7,8 @@ const Banner = () => {
             <div className="hero-overlay bg-opacity-25"></div>
             <div className=" text-neutral-content md:ml-20 ml-5">
                 <div className="max-w-md">
-                    <h1 className="mb-5 text-5xl font-bold dark:text-gray-50">Witness the VISION Mercedes-Maybach</h1>
-                    <p className="mb-5">The future of ultra-luxury mobility is now in Bangladesh, for the first time at the Glorious Bengal Cultural Center, Dhaka.</p>
+                    <h1 className="mb-5 text-5xl font-bold dark:text-gray-50">Experience the VISION Mercedes-Maybach</h1>
+                    <p className="mb-5">Discover the future of ultra-luxury mobility in Bangladesh for the first time, showcased at the Glorious Bengal Cultural Center in Dhaka, presented by Haven Wheels.</p>
                     <Link to="/brand/Mercedes-Benz" className="btn btn-primary">Explore more</Link>
                 </div>
             </div>
